@@ -39,7 +39,7 @@ OSに合わせてNmapをインストールしてください。
 pip install python-nmap
 ````
 
-## 🚀 使い方 (Usage)
+## 使い方 (Usage)
 
 ### 1\. ネットワーク範囲の設定
 
